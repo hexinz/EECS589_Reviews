@@ -18,7 +18,7 @@
 ### The Inherent Assumption or the Model
 <!-- -Describe the inherent assumption or the model used in the paper if any. -->
 - Assumption 1: when the demand for each QoS class exceeds its minimum guaranteed rate, the QoS-share thresholds for priority inversion are a function of QoS weights
-- Assumption 2: Lemma 2. while increasing QoSℎ weight 𝜙 helps admit more QoSℎ traffic with zero delay, beyond QoSℎ-share exceeding 1𝜌 , delay is independent of QoS weights.
+- Assumption 2: while increasing QoS weight helps admit more QoS traffic with zero delay, beyond QoS-share exceeding some number, delay is independent of QoS weights.
 
 ### Flaws
 <!-- -Describe any flaws in the paper. The flaws can be any simplications made that may significantly affect the results. Propose any future work or follow-up studies. -->
