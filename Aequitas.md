@@ -7,7 +7,7 @@
 <!-- -List at least three important contributions of this paper. -->
 - The paper proposed Aequitas, a admission control system that provides service-level objectives (SLOs) for performance-critical Remote Procedure Calls (PC RPCs) regardless of their size, even when network demand is 10 times beyond provisioned capacity (at the 99.9th-p RNL).
 - Realied cluster-wide predictable latency performance.
-- Hosts can make local decisionis to admit or downgrade QoS for an RPC.
+- Hosts can make local decisions to admit or downgrade QoS for an RPC.
 
 ### The Methodology
 
@@ -22,4 +22,4 @@
 
 ### Flaws
 <!-- -Describe any flaws in the paper. The flaws can be any simplications made that may significantly affect the results. Propose any future work or follow-up studies. -->
-??
+- The assumptions are ideal in reality. How could the method be applied in real life?
